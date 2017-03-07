@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="iON/iON.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iON/Tests.cs">
+    <Files>
+      <File FileName="iON/Tests.cs" Line="30" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.iON PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
