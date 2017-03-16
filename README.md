@@ -1,14 +1,14 @@
 # iON
 Test Automation Scripts for iON
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
